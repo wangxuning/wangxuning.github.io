@@ -1,4 +1,4 @@
-﻿
+
 
 /* =============================================================
    GENERAL STYLES
@@ -12,7 +12,7 @@ body {
 }
 .pad-top-bottom {
      padding-top:20px;
-      padding-bottom:30px;
+      padding-bottom:30px
 }
 .text-center {
     text-align:center;
@@ -110,11 +110,11 @@ color:#fff;
      
      max-height:200px;
    border:5px solid rgb(255, 15, 101);
-  content:url('../img/c.jpg');  /*SAD IMAGE URL  - LEFT SIDE IMAGE*/
+  content:url('../img/3.jpg');  /*SAD IMAGE URL  - LEFT SIDE IMAGE*/
   cursor:pointer;
 }
  #home-sec .main-img:hover {
-  content:url('../img/c.jpg'); /*SIMLE IMAGE URL ON HOVER - LEFT SIDE IMAGE*/
+  content:url('../img/3.jpg'); /*SIMLE IMAGE URL ON HOVER - LEFT SIDE IMAGE*/
   cursor:pointer;
 }
     #home-sec a,#home a:hover {
@@ -123,11 +123,11 @@ color:#fff;
 #home-sec .main-img-2 {
      max-height:200px;
    border:5px solid rgb(255, 15, 101);
-  content:url('../img/b.jpg');  /*SMILE IMAGE URL  - RIGHT SIDE IMAGE*/
+  content:url('../img/2.jpg');  /*SMILE IMAGE URL  - RIGHT SIDE IMAGE*/
   cursor:pointer;
 }
 #home-sec .main-img-2:hover {
-  content:url('../img/b.jpg');  /*SAD IMAGE URL ON HOVER - RIGHT SIDE IMAGE*/
+  content:url('../img/2.jpg');  /*SAD IMAGE URL ON HOVER - RIGHT SIDE IMAGE*/
   cursor:pointer;
 }
  
